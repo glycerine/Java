@@ -1,0 +1,5 @@
+#surefire
+#Mon Feb 21 15:00:14 CET 2011
+user.dir=/home/git/Java/JMSQuote
+localRepository=/home/kafka/.m2/repository
+basedir=/home/git/Java/JMSQuote

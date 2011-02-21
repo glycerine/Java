@@ -1,0 +1,108 @@
+2011-02-21 13:15:45,893 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 13:15:45,906 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 13:15:46,431 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:48:14,064 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:48:14,077 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:48:14,524 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:50:23,759 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:50:23,772 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:50:24,208 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:51:22,565 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:51:22,579 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:51:22,958 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:52:05,606 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:52:05,619 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:52:06,011 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:52:48,725 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:52:48,738 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:52:49,120 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:56:52,452 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:56:52,466 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:56:52,848 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,031 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:58:39,044 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:58:39,431 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,673 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,700 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,731 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,755 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,788 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,822 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,845 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,877 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,901 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:58:39,929 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:31,836 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 14:59:31,849 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 14:59:32,270 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:32,939 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:32,971 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,014 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,048 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,086 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,113 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,142 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,168 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,196 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 14:59:33,240 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,138 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 15:00:16,151 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 15:00:16,546 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,775 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,808 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,836 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,873 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,908 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,933 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:16,972 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:17,013 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:17,056 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:00:17,105 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:12,704 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 15:01:12,716 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 15:01:13,113 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,324 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,355 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,381 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,415 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,459 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,496 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,533 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,575 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,614 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:13,663 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:167) - Triggering auto-flush because queue reached batch size of 100
+2011-02-21 15:01:51,893 DEBUG (eu.investuotojas.jmsquote.service.TickPriceJdbc:343) - RdbmsOperation with SQL [insert into tickprice (tickerid,price,field,ts) values(?,?,?,?)] compiled
+2011-02-21 15:01:51,906 DEBUG (eu.investuotojas.jmsquote.service.TickVolumeJdbc:343) - RdbmsOperation with SQL [insert into tickvolume (tickerid,size,field,timestamp) values(?,?,?,?)] compiled
+2011-02-21 15:01:52,260 DEBUG (eu.investuotojas.jmsquote.App:49) - ><><><>?<> 74156
+2011-02-21 15:01:52,335 ERROR (eu.investuotojas.jmsquote.client.IBClient:226) - errorCode 2104 error Market data farm connection is OK:usfuture
+2011-02-21 15:01:52,336 ERROR (eu.investuotojas.jmsquote.client.IBClient:226) - errorCode 2104 error Market data farm connection is OK:eurofarm
+2011-02-21 15:01:52,434 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 1
+2011-02-21 15:01:52,434 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:40) - 1298296912416
+2011-02-21 15:01:52,434 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 2
+2011-02-21 15:01:52,435 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:40) - 1298296912431
+2011-02-21 15:01:52,435 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 3
+2011-02-21 15:01:52,435 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 4
+2011-02-21 15:01:52,435 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:40) - 1298296912432
+2011-02-21 15:01:52,436 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 5
+2011-02-21 15:01:52,436 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 6
+2011-02-21 15:01:52,437 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 7
+2011-02-21 15:01:52,437 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:40) - 1298296912437
+2011-02-21 15:01:52,439 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:40) - 1298296912439
+2011-02-21 15:01:52,439 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:40) - 1298296912438
+2011-02-21 15:01:52,438 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:40) - 1298296912437
+2011-02-21 15:01:53,228 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 8
+2011-02-21 15:01:54,228 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 9
+2011-02-21 15:01:54,229 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 10
+2011-02-21 15:01:54,229 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 11
+2011-02-21 15:01:54,230 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 12
+2011-02-21 15:01:55,978 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 13
+2011-02-21 15:01:56,977 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 14
+2011-02-21 15:01:58,977 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 15
+2011-02-21 15:01:59,979 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 16
+2011-02-21 15:01:59,980 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 17
+2011-02-21 15:02:00,980 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 18
+2011-02-21 15:02:02,233 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 19
+2011-02-21 15:02:02,235 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 20
+2011-02-21 15:02:03,237 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 21
+2011-02-21 15:02:04,241 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 22
+2011-02-21 15:02:05,241 DEBUG (eu.investuotojas.jmsquote.jms.JdbcListener:52) - counter 23
