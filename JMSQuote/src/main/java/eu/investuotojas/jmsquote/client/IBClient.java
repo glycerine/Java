@@ -152,8 +152,8 @@ public class IBClient implements EWrapper, Runnable
 
 	public void tickPrice(int tickerId, int field, double price,
 			int canAutoExecute) {
-		log.debug("tickerId "+tickerId+" price "+price+" field "+field);
-		sender.sendPrice(tickerId, field, price, Calendar.getInstance().getTimeInMillis());
+		//log.debug("tickerId "+tickerId+" price "+price+" field "+field);
+		sender.send(tickerId, price,field, Calendar.getInstance().getTimeInMillis());
 		
 	}
 

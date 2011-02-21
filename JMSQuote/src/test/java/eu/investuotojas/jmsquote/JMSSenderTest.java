@@ -27,7 +27,7 @@ public class JMSSenderTest extends AbstractJUnit4SpringContextTests
 	{
 		System.out.println("jms test send");
 		
-		for(int i=0;i<10;i++)
+		/*for(int i=0;i<10;i++)
 		{
 			sender.sendPrice(999, 1, 1.1, Calendar.getInstance().getTimeInMillis());
 			
@@ -35,6 +35,13 @@ public class JMSSenderTest extends AbstractJUnit4SpringContextTests
 		
 		
 		sender.send("super duper TEST MESSAGE>>>>>>>>>>>>>>>>>>>>");
+		try {
+			Thread.sleep(100);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}*/
+		
 	}
 
 }

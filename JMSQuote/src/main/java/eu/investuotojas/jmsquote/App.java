@@ -43,14 +43,14 @@ public class App implements Runnable
 		 contra.m_secType = "FUT";
 		 contra.m_symbol = "ES";
 		 
-		 m_client.eConnect("127.0.0.1", 4001, 741);
+		 m_client.eConnect("127.0.0.1", 4001, 74156);
 		 
-		 m_client.reqMktData(1, contra, "", false);
-		 log.debug("><><><>?<>");
+		 m_client.reqMktData(100001, contra, "", false);
+		 log.debug("><><><>?<> "+74156);
 		 while (true) 
 		 {
 			 try {
-				Thread.sleep(100000);
+				Thread.sleep(1000);
 			} catch (InterruptedException e) {
 				
 				e.printStackTrace();

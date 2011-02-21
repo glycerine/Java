@@ -29,16 +29,22 @@ public class QueueSender
         this.jmsTemplate = jmsTemplate;
     }
  
-    public void send( final String message )
+    public void send( Integer tickerId,Double price ,Integer field,Long timestamp)
     {
     	System.out.println("......");
     	try
     	{
-        jmsTemplate.convertAndSend( "Queue.Name", message );
+    		Map <String, Object>map = new HashMap<String, Object>();
+        	map.put("tickerId", tickerId);
+        	map.put("field", field);
+        	map.put("price", price);
+        	map.put("timestamp", timestamp);
+    		
+        jmsTemplate.convertAndSend( "Queue.Name", map );
     	}
     	catch(Exception e)
     	{
-    		 System.out.println("......"+e.getMessage());
+    		 System.out.println("ERROR"+e.getMessage());
     	}
        
     }
